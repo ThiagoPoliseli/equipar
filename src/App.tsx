@@ -12,7 +12,7 @@ function App() {
       <section className="relative min-h-screen flex items-center justify-center py-16 px-4">
         <div className="absolute inset-0">
           <img
-            src="public\assets\fundo.png"
+            src="assets\fundo.png"
             alt="Equipamentos médicos"
             className="w-full h-full object-cover"
           />
