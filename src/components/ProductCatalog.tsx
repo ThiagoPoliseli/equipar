@@ -104,16 +104,6 @@ const products = [
   },
   {
     id: 11,
-    name: 'Eletrocardiógrafo Cardiocare',
-    image: 'assets/ELETROCARDÓGRAFO CARDIOCARE.png',
-    description: 'Eletrocardiógrafo digital de 12 canais; Impressora térmica integrada de alta resolução; Impressão em 1, 3, 6 e 12 canais no formato A4; Pré-laudo do ECG e medidas complexas; para 200 exames; Salvamento automático do último exame realizado;',
-    category: 'Cardiologia',
-    featured: true,
-    specs: ['Bateria de longa duração', 'Modelo: CARDIOCARE 2000', 'Marca: BIONET', 'Pré-laudo do ECG'],
-    price: 'Sob consulta'
-  },
-  {
-    id: 12,
     name: 'Eletrocardiógrafo Digital',
     image: 'assets/ELETROCARDÓGRAFO DIGITAL.png',
     description: 'Tela colorida LCD de 7"; 3 canais / 12 derivações; Impressão em formato A4 através de software; Bateria de litio com autonomia de 18h;',
@@ -123,7 +113,7 @@ const products = [
     price: 'Sob consulta',
   },
   {
-    id: 13,
+    id: 12,
     name: 'Eletrocardiógrafo Digital',
     image: 'assets/ELETROCARDÓGRAFO DIGITAL 2.png',
     description: 'Uso adulto e pediátrico; Tela colorida LCD de 7"; 3/6/12 canais / 12 derivações; Impressão formato A4 integrada ao equipamento; Bateria de litio com autonomia de 18h;',
@@ -133,7 +123,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 14,
+    id: 13,
     name: 'Eletrocardiógrafo Digital',
     image: 'assets/ELETROCARDÓGRAFO DIGITAL 3.png',
     description: 'Tela touch Screen 10,1” colorida, removível; exibição de forma de onda de 9/12/15/18 derivações; 4 modos de amostragem; Congelamento de forma de onda de ECG na tela; Suporta transmissão sem fio via Wi-Fi e redes móveis; Base com impressora térmica embutida e conexão para impressora a laser externa; Carrinho para transporte com suporte para cabos e cesto para acessórios;',
@@ -143,7 +133,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 15,
+    id: 14,
     name: 'Eletrocardiógrafo 300G',
     image: 'assets/ELETROCARDÓGRAFO 300G.png',
     description: '12 Derivações simultâneas; Impressão térmica, modo manual/automático; Funções opcionais de FCG, HFECG, QTd, análise VFC; Conexão em PC para visualização da monitorização; Tensão bivolt 90/240V com bateria recarregável; Marca: CONTEC; Modelo: 300G;',
@@ -153,7 +143,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 16,
+    id: 15,
     name: 'Estetoscópio Spirit',
     image: 'assets/ESTETOSCÓPIO SPIRIT.png',
     description: 'Composição das olivas em nano silicone; Olivas auriculares macias e resistentes, não possuem roscas; ou aparatos internos, ajustam-se anatomicamente ao canal auditivo; Sistema de anel não frio; Hastes com molas internas reforçadas e camada dupla em metal; Não contém látex; Tubo de PVC durável e resistente; Marca: MD; Modelo: III PRO adulto/pediátrico;',
@@ -163,7 +153,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 17,
+    id: 16,
     name: 'Estetoscópio Duplo',
     image: 'assets/ESTETOSCÓPIO DUPLO.png',
     description: 'Baixo peso; Diafragmas de alta sensibilidade; Tubo moldado em PVC de peça única para melhor transmissão do som; Marca: Premium; Modelo: Duplo adulto;',
@@ -173,7 +163,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 18,
+    id: 17,
     name: 'Foco Cirúrgico LED Omni',
     image: 'assets/FOTÓFORO LED OMNI.png',
     description: 'Iluminação uniforme com estrutura multi-lentes que garante alto nível de luminância homogênea no campo luminoso; Design Coaxial para iluminação livre de sombras; Ângulo de luminância móvel; Indicador LED para status da bateria; Intensidade luminosa do LED ajustável entre 15.000 - 30.000 Lux; Iluminação LED com temperatura de cor de 6.000K; Tamanho do campo luminoso: 70mm (a 3 m); LED de alta potência com vida útil aproximada de 50.000 horas; Bateria Lítio-íon recarregável; Autonomia da bateria aproximada de 4 horas; Marca: MD;',
@@ -183,7 +173,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 19,
+    id: 18,
     name: 'Oftalmoscópio LED',
     image: 'assets/OFTALMOSCÓPIO LED.png',
     description: 'Iluminação LED de alta intensidade de 7.500 Lux, com durabilidade de 50.000 horas; Lentes com dioptrias de -20D a +20D, com marcador iluminado; Óptica selada livre de poeira; Cabo em aço inox com revestimento termoplástico; Seleção de 5 aberturas, com filtro verde livre de vermelho; Marca: MD;',
@@ -193,7 +183,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 20,
+    id: 19,
     name: 'Oftalmoscópio Xenon',
     image: 'assets/OFTALMOSCÓPIO XENON.png',
     description: 'Iluminação Xenon com ótima intensidade luminosa de 7.000 Lux e Índice de Reprodução de Cor (CRI) >99; Lentes com dioptrias de -20D a +20D, com marcador iluminado; Óptica selada livre de poeira; Cabo em aço inox com revestimento termoplástico; Seleção de 5 aberturas, com filtro verde livre de vermelho; Marca: MD;',
@@ -203,7 +193,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 21,
+    id: 20,
     name: 'Oftalmoscópio Visio',
     image: 'assets/OFTALMOSCÓPIO VISIO.png',
     description: 'Lâmpada 2.5V ou 3.5V, de Xenon Halógena ou LED; Ajuste para 28 lentes; Dioptria: - 25 a + 40; Marcador iluminado; Cabeça em ABS resistente à impactos; Cabo em aço inox; Reostato para controle de intensidade da luz; Alimentação através de 2 pilhas alcalinas tipo "C" ou bateria recarregável (opcional); Seleção de 6 aberturas, com filtro verde livre de vermelho; Não contém látex; Marca: MD;',
@@ -213,7 +203,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 22,
+    id: 21,
     name: 'Otoscópio Fibra Óptica',
     image: 'assets/OTOSCÓPIO FIBRA ÓPTICA.png',
     description: 'Iluminação LED de excelente intensidade luminosa de 50.000 Lux, com durabilidade de 50.000 horas; Transmissão da luz por fibra óptica, sem obstruções, sem reflexos e sem aquecimento; Cabeça em aço inox e ABS; Lente giratória, ampliação da imagem em 3 vezes; Cabo em aço inox com revestimento termoplástico reforçado, resistente a impactos e corrosões; Clip de bolso com acionamento on/off e desligamento automático ao ser fixado no bolso; Marca: MD;',
@@ -223,7 +213,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 23,
+    id: 22,
     name: 'Otoscópio Xenon Halógena',
     image: 'assets/OTOSCÓPIO XENON HALÓGENA.png',
     description: 'Iluminação Xenon com ótima intensidade luminosa de 30.000 Lux e Índice de Reprodução de Cor (CRI) >99; Transmissão da luz por fibra óptica, sem obstruções, sem reflexos e aquecimento; Cabeça em aço inox e ABS; Lente giratória, ampliação da imagem em 3 vezes; Cabo em aço inox com revestimento termoplástico reforçado, resistente a impactos e corrosões; Clip de bolso com acionamento on/off e desligamento automático ao ser fixado no bolso; Marca: MD;',
@@ -233,7 +223,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 24,
+    id: 23,
     name: 'Otoscópio Recarregável',
     image: 'assets/OTOSCÓPIO RECARREGÁVEL.png',
     description: 'Iluminação LED de excelente intensidade luminosa de 50.000 Lux, com durabilidade de 50.000 horas; Transmissão da luz por fibra óptica, sem obstruções, sem reflexos e sem aquecimento; Cabeça em aço inox e ABS; Lente giratória, ampliação da imagem em 3 vezes; Cabo em aço inox com revestimento termoplástico reforçado, resistente a impactos e corrosões; Clip de bolso com acionamento on/off e desligamento automático ao ser fixado no bolso; Marca: MD;',
@@ -243,7 +233,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 25,
+    id: 24,
     name: 'Otoscópio Mini',
     image: 'assets/OTOSCÓPIO MINI.png',
     description: 'Iluminação (Incluso 02 Lâmpadas); Temperatura de Cor: 3.500 K (Kelvin) – Branco Quente; Vida útil: 20.000 h (horas-mínimas); Lentes com ampla Visão e Zoom com ampliação de 2,5 vezes; Alimentação através de 2 pilhas tamanho AA (Não Inclusas); Cabo com encaixes metálicos; Acompanha bolsa para armazenamento e transporte; Marca: MISSOURI;',
@@ -253,7 +243,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 26,
+    id: 25,
     name: 'Otoscópio Mini 2',
     image: 'assets/OTOSCÓPIO MINI 2.png',
     description: 'Leve e compacto; Iluminação (Incluso 02 Lâmpadas); Temperatura de Cor: 3.000 K (Kelvin) – Branco Quente; Vida útil: 20.000 h (horas-mínimas); Lentes com ampla Visão e Zoom com ampliação de 2,5 vezes; Alimentação através de 2 pilhas tamanho AA (Não Inclusas); Cabo com encaixes metálicos; Acompanha bolsa para armazenamento e transporte; Marca: MISSOURI;',
@@ -263,7 +253,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 28,
+    id: 26,
     name: 'Oxímetro de Pulso',
     image: 'assets/OXÍMETRO DE PULSO.PNG',
     description: 'Sensores para uso adulto, pediátrico e neonatal; Tela colorida; Desligamento automático; Tecnologia MoveOxy SPO2 anti movimento; Com suporte de mesa; Bateria de Litio recarregável com carregador integrado; Marca: LEPU; Modelo: PC 66B;',
@@ -273,7 +263,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 29,
+    id: 27,
     name: 'Oxímetro de Pulso Portátil e Mesa',
     image: 'assets/OXÍMETRO DE PULSO POTÁTIL E MESA.PNG',
     description: 'Sensores para uso adulto, pediátrico e neonatal; Tela colorida rotacional; Desligamento automático; Tecnologia MoveOxy SPO2 anti movimento; Capa de proteção; Dispositivo retrátil, acomodação em superfícies planas; Base de mesa; Entrada para termômetro; Transmissão de dados através de rede sem fio; Medição por infravermelho; Marca: CREATIVE; Modelo: SP 20;',
@@ -283,7 +273,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 30,
+    id: 28,
     name: 'Oxímetro de Dedo',
     image: 'assets/OXÍMETRO DE DEDO.png',
     description: 'Uso adulto; Pequeno, leve e fácil de transportar; Leitura de 2 parâmetros: SPO2 e frequência cardíaca; Desligamento automático para economizar bateria; Certificado Anvisa e Inmetro; Marca: YONKER; Modelo: YK 81 A;',
@@ -293,7 +283,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 31,
+    id: 29,
     name: 'Oxímetro de Mesa',
     image: 'assets/OXÍMETRO DE MESA.PNG',
     description: 'Visor LCD colorido de 7”; Alarmes sonoros ajustáveis e programáveis; Funcionamento por bateria e energia AC; Porta de rede para comunicação com computador; Opções de sensores adulto, pediátrico e neonatal; Marca: MD; Modelo: VS 2000E;',
@@ -303,7 +293,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 32,
+    id: 30,
     name: 'Oxímetro de Dedo',
     image: 'assets/OXÍMETRO DE DEDO 2.png',
     description: 'Tecnologia Artery Check; Leve, compacto e portátil; Capacidade para uso contínuo em aproximadamente 16 horas; Desligamento automático; Alerta visual e sonoro; Tela rotacional; Transferência dos dados de medição via Bluetooth; Marca: MD; Modelo: SB 210;',
@@ -313,7 +303,7 @@ const products = [
     price: 'Sob consulta'
   },
   {
-    id: 33,
+    id: 31,
     name: 'Oxímetro de Dedo',
     image: 'assets/OXÍMETRO DE DEDO 3.png',
     description: 'Visor LED em 7 segmentos com alto nível de brilho; Leve, Compacto e Portátil; Capacidade para uso de até 16 horas; Alimentação através de 02 (duas) pilhas alcalinas "AAA"; Desligamento automático; Marca: MD; Modelo: SB 100;',
