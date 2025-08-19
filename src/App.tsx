@@ -19,7 +19,7 @@ function App() {
     <div className="min-h-screen" style={{ backgroundColor: "#003F7E" }}>
       <Header />
 
-      {/* Hero Section */}
+      
       <section className="relative min-h-screen flex items-center justify-center py-16 px-4">
         <div className="absolute inset-0">
           <img
