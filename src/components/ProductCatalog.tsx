@@ -5,7 +5,7 @@ const products = [
   //Amalgamador:
 
   {
-    id: 32,
+    id: 1,
     name: "Yg-100",
     image: "assets/id_32-removebg-preview.png",
     description:
@@ -19,7 +19,7 @@ const products = [
   //Analisador
 
   {
-    id: 33,
+    id: 2,
     name: "Analisador Bioquímico Automático MaxBio Auto 300 Plus",
     image: "assets/id_33-removebg-preview.png",
     description:
@@ -31,7 +31,7 @@ const products = [
   },
 
   {
-    id: 34,
+    id: 3,
     name: "Analisador Bioquímico Automático MaxBio 300",
     image: "assets/id_34-removebg-preview.png",
     description:
@@ -43,7 +43,7 @@ const products = [
   },
 
   {
-    id: 35,
+    id: 4,
     name: "Analisador Bioquímico Automático MaxBio Touch",
     image: "assets/id_35-removebg-preview.png",
     description:
@@ -58,7 +58,7 @@ const products = [
   //Aparelho:
 
   {
-    id: 36,
+    id: 5,
     name: "Bpap-YH 730 ",
     image: "assets/id_36-removebg-preview.png",
     description:
@@ -70,7 +70,7 @@ const products = [
   },
 
   {
-    id: 37,
+    id: 6,
     name: "Cpap - YH 560 ",
     image: "assets/id_37-removebg-preview.png",
     description:
@@ -82,7 +82,7 @@ const products = [
   },
 
   {
-    id: 38,
+    id: 7,
     name: " kit Cpap Portátil ",
     image: "assets/id_38-removebg-preview.png",
     description:
@@ -96,7 +96,7 @@ const products = [
   //Autoclave:
 
   {
-    id: 39,
+    id: 8,
     name: "Autoclave 21L",
     image: "assets/id_39-removebg-preview.png",
     description:
@@ -108,7 +108,7 @@ const products = [
   },
 
   {
-    id: 40,
+    id: 9,
     name: "Autoclave 21L",
     image: "assets/id_40-removebg-preview.png",
     description:
@@ -120,7 +120,7 @@ const products = [
   },
 
   {
-    id: 41,
+    id: 10,
     name: "Autoclave 54L",
     image: "assets/id_41-removebg-preview.png",
     description:
@@ -132,7 +132,7 @@ const products = [
   },
 
   {
-    id: 42,
+    id: 11,
     name: "Autoclave 7L",
     image: "assets/id_42-removebg-preview.png",
     description:
@@ -143,7 +143,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 43,
+    id: 12,
     name: "Autoclave 12L",
     image: "assets/id_43-removebg-preview.png",
     description:
@@ -154,7 +154,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 44,
+    id: 13,
     name: "Autoclave 21L",
     image: "assets/id_44-removebg-preview.png",
     description:
@@ -166,7 +166,7 @@ const products = [
   },
 
   {
-    id: 45,
+    id: 14,
     name: "Autoclave 25L",
     image: "assets/id_45-removebg-preview.png",
     description:
@@ -178,7 +178,7 @@ const products = [
   },
 
   {
-    id: 46,
+    id: 15,
     name: "Autoclave 30L",
     image: "assets/id_46-removebg-preview.png",
     description:
@@ -189,7 +189,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 47,
+    id: 16,
     name: "Autoclave 40L",
     image: "assets/id_47-removebg-preview.png",
     description:
@@ -201,7 +201,7 @@ const products = [
   },
 
   {
-    id: 48,
+    id: 17,
     name: "Autoclave 42L",
     image: "assets/id_48-removebg-preview.png",
     description:
@@ -213,7 +213,7 @@ const products = [
   },
 
   {
-    id: 49,
+    id: 18,
     name: "Autoclave 50L",
     image: "assets/id_49-removebg-preview.png",
     description:
@@ -225,7 +225,7 @@ const products = [
   },
 
   {
-    id: 50,
+    id: 19,
     name: "Autoclave 54L",
     image: "assets/id_50-removebg-preview.png",
     description:
@@ -236,7 +236,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 51,
+    id: 20,
     name: "Autoclave 60L",
     image: "assets/id_51-removebg-preview.png",
     description:
@@ -248,7 +248,7 @@ const products = [
   },
 
   {
-    id: 52,
+    id: 21,
     name: "Autoclave 75L",
     image: "assets/id_52-removebg-preview.png",
     description:
@@ -262,7 +262,7 @@ const products = [
   //Balança:
 
   {
-    id: 53,
+    id: 22,
     name: "Balança Infantil",
     image: "assets/id_53-removebg-preview.png",
     description: "Modelo: Baby; Marca: Ramuza;",
@@ -273,7 +273,7 @@ const products = [
   },
 
   {
-    id: 54,
+    id: 23,
     name: "Balança Infantil",
     image: "assets/id_54-removebg-preview.png",
     description: "Modelo: BabyCare; Marca: Balmak;",
@@ -284,7 +284,7 @@ const products = [
   },
 
   {
-    id: 55,
+    id: 24,
     name: "Balança Infantil",
     image: "assets/id_55-removebg-preview.png",
     description: "Modelo: 109; Marca: Balmak;",
@@ -295,7 +295,7 @@ const products = [
   },
 
   {
-    id: 56,
+    id: 25,
     name: "Balança Adulto",
     image: "assets/id_56-removebg-preview.png",
     description: "Modelo: Glass 10; Marca: G-Tech;",
@@ -306,7 +306,7 @@ const products = [
   },
 
   {
-    id: 57,
+    id: 26,
     name: "Balança Adulto",
     image: "assets/id_57-removebg-preview.png",
     description: "Modelo: Myfit+; Marca: Balmak;",
@@ -317,7 +317,7 @@ const products = [
   },
 
   {
-    id: 58,
+    id: 27,
     name: "Balança Adulto",
     image: "assets/id_58-removebg-preview.png",
     description: "Modelo: EB-9010; Marca: Bioland;",
@@ -328,7 +328,7 @@ const products = [
   },
 
   {
-    id: 59,
+    id: 28,
     name: "Balança Digital",
     image: "assets/id_59-removebg-preview.png",
     description: "Balança Digital com Régua Antropométrica; Marca: Balmak;",
@@ -339,7 +339,7 @@ const products = [
   },
 
   {
-    id: 60,
+    id: 29,
     name: "Balança Digital",
     image: "assets/id_60-removebg-preview.png",
     description: "Modelo: Balança Farmácia; Marca: Balmak;",
@@ -350,7 +350,7 @@ const products = [
   },
 
   {
-    id: 61,
+    id: 30,
     name: "Balança Antropométrica",
     image: "assets/id_61-removebg-preview.png",
     description:
@@ -362,7 +362,7 @@ const products = [
   },
 
   {
-    id: 64,
+    id: 31,
     name: "Balança Digital Premium",
     image: "assets/id_64-removebg-preview.png",
     description:
@@ -376,7 +376,7 @@ const products = [
   //Berço:
 
   {
-    id: 65,
+    id: 32,
     name: "Berço Aquecido GRN® Neosolution ",
     image: "assets/id_65-removebg-preview.png",
     description:
@@ -388,7 +388,7 @@ const products = [
   },
 
   {
-    id: 66,
+    id: 33,
     name: "Berço Pediátrico Esmaltado",
     image: "assets/id_66-removebg-preview.png",
     description:
@@ -402,7 +402,7 @@ const products = [
   //Bioimpedância:
 
   {
-    id: 67,
+    id: 34,
     name: "Bioimpedância Tetrapolar com Ângulo de Fase ",
     image: "assets/id_67-removebg-preview.png",
     description: "Modelo: Bia1011af; Marca: Sanny;",
@@ -415,7 +415,7 @@ const products = [
   //Bisturi:
 
   {
-    id: 68,
+    id: 35,
     name: "Bisturi Elétrico Precision TC3 / 300W Deltronix",
     image: "assets/id_68-removebg-preview.png",
     description:
@@ -429,7 +429,7 @@ const products = [
   //Bomba:
 
   {
-    id: 69,
+    id: 36,
     name: "Bomba De Vácuo",
     image: "assets/id_69-removebg-preview.png",
     description:
@@ -441,7 +441,7 @@ const products = [
   },
 
   {
-    id: 70,
+    id: 37,
     name: " Bomba de Infusão",
     image: "assets/id_70-removebg-preview.png",
     description:
@@ -455,7 +455,7 @@ const products = [
   //Broca:
 
   {
-    id: 71,
+    id: 38,
     name: "Brocas Carbide",
     image: "assets/id_71-removebg-preview.png",
     description:
@@ -467,7 +467,7 @@ const products = [
   },
 
   {
-    id: 72,
+    id: 39,
     name: "Brocas Gates e Largos",
     image: "assets/id_72-removebg-preview.png",
     description:
@@ -481,7 +481,7 @@ const products = [
   //Cadeira:
 
   {
-    id: 73,
+    id: 40,
     name: "Poltrona Para Coleta de Sangue",
     image: "assets/id_73-removebg-preview.png",
     description:
@@ -493,7 +493,7 @@ const products = [
   },
 
   {
-    id: 74,
+    id: 41,
     name: "Cadeira Para coleta de Sangue",
     image: "assets/id_74-removebg-preview.png",
     description:
@@ -505,7 +505,7 @@ const products = [
   },
 
   {
-    id: 75,
+    id: 42,
     name: "Poltrona Reclinável De Descanso",
     image: "assets/id_75-removebg-preview.png",
     description:
@@ -519,7 +519,7 @@ const products = [
   //Cama:
 
   {
-    id: 76,
+    id: 43,
     name: "Cama Fowler",
     image: "assets/id_76-removebg-preview.png",
     description:
@@ -533,7 +533,7 @@ const products = [
   //Caneta:
 
   {
-    id: 77,
+    id: 44,
     name: "Caneta De Alta Rotação",
     image: "assets/id_77-removebg-preview.png",
     description:
@@ -545,7 +545,7 @@ const products = [
   },
 
   {
-    id: 78,
+    id: 45,
     name: "Caneta De Baixa Rotação",
     image: "assets/id_78-removebg-preview.png",
     description:
@@ -559,7 +559,7 @@ const products = [
   //Cardiologia
 
    {
-    id: 10,
+    id: 46,
     name: "Eletrocardiógrafo Cardiotouch",
     image: "assets/ELETROCARDIÓGRAFO CARDIOTOUCH.png",
     description:
@@ -576,7 +576,7 @@ const products = [
   },
 
     {
-    id: 11,
+    id: 47,
     name: "Eletrocardiógrafo Digital",
     image: "assets/ELETROCARDÓGRAFO DIGITAL.png",
     description:
@@ -593,7 +593,7 @@ const products = [
   },
 
    {
-    id: 12,
+    id: 48,
     name: "Eletrocardiógrafo Digital",
     image: "assets/ELETROCARDÓGRAFO DIGITAL 2.png",
     description:
@@ -610,7 +610,7 @@ const products = [
   },
 
   {
-    id: 13,
+    id: 49,
     name: "Eletrocardiógrafo Digital",
     image: "assets/ELETROCARDÓGRAFO DIGITAL 3.png",
     description:
@@ -627,7 +627,7 @@ const products = [
   },
 
   {
-    id: 14,
+    id: 50,
     name: "Eletrocardiógrafo 300G",
     image: "assets/ELETROCARDÓGRAFO 300G.png",
     description:
@@ -648,7 +648,7 @@ const products = [
   //Carro de Emergência:
 
   {
-    id: 79,
+    id: 51,
     name: "Carro de Emergência Esmaltado",
     image: "assets/id_79-removebg-preview.png",
     description:
@@ -662,7 +662,7 @@ const products = [
   //Centrífuga:
 
   {
-    id: 80,
+    id: 52,
     name: "Centrífuga Tdl-24C",
     image: "assets/id_80-removebg-preview.png",
     description:
@@ -674,7 +674,7 @@ const products = [
   },
 
   {
-    id: 81,
+    id: 53,
     name: "Centrífuga SpinMax",
     image: "assets/id_81-removebg-preview.png",
     description:
@@ -686,7 +686,7 @@ const products = [
   },
 
   {
-    id: 82,
+    id: 54,
     name: "Centrífuga Refrigerada De Alta Velocidade TGL-16M",
     image: "assets/id_82-removebg-preview.png",
     description:
@@ -698,7 +698,7 @@ const products = [
   },
 
   {
-    id: 83,
+    id: 55,
     name: "Centrífuga TDL-5",
     image: "assets/id_83-removebg-preview.png",
     description:
@@ -710,7 +710,7 @@ const products = [
   },
 
   {
-    id: 84,
+    id: 56,
     name: "Centrífuga SH-120III",
     image: "assets/id_84-removebg-preview.png",
     description:
@@ -722,7 +722,7 @@ const products = [
   },
 
   {
-    id: 85,
+    id: 57,
     name: "Centrífuga SH-120",
     image: "assets/id_85-removebg-preview.png",
     description:
@@ -734,7 +734,7 @@ const products = [
   },
 
   {
-    id: 86,
+    id: 58,
     name: "Centrífuga 80-2B",
     image: "assets/id_86-removebg-preview.png",
     description:
@@ -746,7 +746,7 @@ const products = [
   },
 
   {
-    id: 87,
+    id: 59,
     name: "Centrífuga 80-2C",
     image: "assets/id_87-removebg-preview.png",
     description:
@@ -758,7 +758,7 @@ const products = [
   },
 
   {
-    id: 88,
+    id: 60,
     name: "Centrífuga 90-2",
     image: "assets/id_88-removebg-preview.png",
     description:
@@ -770,7 +770,7 @@ const products = [
   },
 
   {
-    id: 89,
+    id: 61,
     name: "Banho Maria de Duas Bocas",
     image: "assets/id_89-removebg-preview.png",
     description:
@@ -784,7 +784,7 @@ const products = [
   //Cilindro de Alumínio:
 
   {
-    id: 90,
+    id: 62,
     name: "Cilindro 1.0L",
     image: "assets/id_90-removebg-preview.png",
     description:
@@ -796,7 +796,7 @@ const products = [
   },
 
   {
-    id: 91,
+    id: 63,
     name: "Cilindro 1.7L",
     image: "assets/id_91-removebg-preview.png",
     description:
@@ -808,7 +808,7 @@ const products = [
   },
 
   {
-    id: 92,
+    id: 64,
     name: "Cilindro 2.8L",
     image: "assets/id_92-removebg-preview.png",
     description:
@@ -820,7 +820,7 @@ const products = [
   },
 
   {
-    id: 93,
+    id: 65,
     name: "Cilindro 4.1L",
     image: "assets/id_93-removebg-preview.png",
     description:
@@ -832,7 +832,7 @@ const products = [
   },
 
   {
-    id: 94,
+    id: 66,
     name: "Cilindro 4.6L",
     image: "assets/id_94-removebg-preview.png",
     description:
@@ -844,7 +844,7 @@ const products = [
   },
 
   {
-    id: 95,
+    id: 67,
     name: "Cilindro 10.7L",
     image: "assets/id_95-removebg-preview.png",
     description:
@@ -856,7 +856,7 @@ const products = [
   },
 
   {
-    id: 96,
+    id: 68,
     name: "Cilindro 15.7L",
     image: "assets/id_96-removebg-preview.png",
     description:
@@ -868,7 +868,7 @@ const products = [
   },
 
   {
-    id: 97,
+    id: 69,
     name: "Cilindro 21.3L",
     image: "assets/id_97-removebg-preview.png",
     description:
@@ -880,7 +880,7 @@ const products = [
   },
 
   {
-    id: 98,
+    id: 70,
     name: "Cilindro 26.1L",
     image: "assets/id_98-removebg-preview.png",
     description:
@@ -892,7 +892,7 @@ const products = [
   },
 
   {
-    id: 99,
+    id: 71,
     name: "Cilindro 29.5L",
     image: "assets/id_99-removebg-preview.png",
     description:
@@ -906,7 +906,7 @@ const products = [
   //Cilindro Aço:
 
   {
-    id: 100,
+    id: 72,
     name: "Cilindro 5.0L",
     image: "assets/id_100-removebg-preview.png",
     description:
@@ -918,7 +918,7 @@ const products = [
   },
 
   {
-    id: 101,
+    id: 73,
     name: "Cilindro 7.0L",
     image: "assets/id_101-removebg-preview.png",
     description:
@@ -930,7 +930,7 @@ const products = [
   },
 
   {
-    id: 102,
+    id: 74,
     name: "Cilindro 10.0L",
     image: "assets/id_102-removebg-preview.png",
     description:
@@ -942,7 +942,7 @@ const products = [
   },
 
   {
-    id: 103,
+    id: 75,
     name: "Cilindro 15.0L",
     image: "assets/id_103-removebg-preview.png",
     description:
@@ -954,7 +954,7 @@ const products = [
   },
 
   {
-    id: 104,
+    id: 76,
     name: "Cilindro 20.0L",
     image: "assets/id_104-removebg-preview.png",
     description:
@@ -966,7 +966,7 @@ const products = [
   },
 
   {
-    id: 105,
+    id: 77,
     name: "Cilindro 40.0L",
     image: "assets/id_105-removebg-preview.png",
     description:
@@ -978,7 +978,7 @@ const products = [
   },
 
   {
-    id: 106,
+    id: 78,
     name: "Cilindro 50.0L",
     image: "assets/id_106-removebg-preview.png",
     description:
@@ -992,7 +992,7 @@ const products = [
   //Cirurgia
 
     {
-    id: 17,
+    id: 79,
     name: "Foco Cirúrgico LED Omni",
     image: "assets/FOTÓFORO LED OMNI.png",
     description:
@@ -1012,7 +1012,7 @@ const products = [
   //Concentrador:
 
   {
-    id: 107,
+    id: 80,
     name: "Concentrador de Oxigênio ",
     image: "assets/id_107-removebg-preview.png",
     description:
@@ -1024,7 +1024,7 @@ const products = [
   },
 
   {
-    id: 108,
+    id: 81,
     name: "Concentrador de Oxigênio ",
     image: "assets/id_108-removebg-preview.png",
     description:
@@ -1036,7 +1036,7 @@ const products = [
   },
 
   {
-    id: 109,
+    id: 82,
     name: "Concentrador de Oxigênio ",
     image: "assets/id_109-removebg-preview.png",
     description:
@@ -1048,7 +1048,7 @@ const products = [
   },
 
   {
-    id: 110,
+    id: 83,
     name: "Concentrador de Oxigênio Mini",
     image: "assets/id_110-removebg-preview.png",
     description:
@@ -1062,7 +1062,7 @@ const products = [
   //Destilador:
 
   {
-    id: 112,
+    id: 84,
     name: "Aqua-Tech",
     image: "assets/id_112-removebg-preview.png",
     description:
@@ -1076,7 +1076,7 @@ const products = [
   //Dermatologia:
 
  {
-    id: 7,
+    id: 85,
     name: "Dermatoscópio Mark II",
     image: "assets/DERMATOSCÓPIO MARK II.png",
     description:
@@ -1092,7 +1092,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 8,
+    id: 86,
     name: "Dermatoscópio Omni LED",
     image: "assets/DERMATOSCÓPIO OMNI LED.png",
     description:
@@ -1108,7 +1108,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 9,
+    id: 87,
     name: "Dermatoscópio DL4W",
     image: "assets/DERMATOSCÓPIO DL4W.png",
     description:
@@ -1127,7 +1127,7 @@ const products = [
   //Diagnóstico:
 
 {
-    id: 18,
+    id: 88,
     name: "Oftalmoscópio LED",
     image: "assets/OFTALMOSCÓPIO LED.png",
     description:
@@ -1144,7 +1144,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 19,
+    id: 89,
     name: "Oftalmoscópio Xenon",
     image: "assets/OFTALMOSCÓPIO XENON.png",
     description:
@@ -1161,7 +1161,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 20,
+    id: 90,
     name: "Oftalmoscópio Visio",
     image: "assets/OFTALMOSCÓPIO VISIO.png",
     description:
@@ -1178,7 +1178,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 21,
+    id: 91,
     name: "Otoscópio Fibra Óptica",
     image: "assets/OTOSCÓPIO FIBRA ÓPTICA.png",
     description:
@@ -1189,7 +1189,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 22,
+    id: 92,
     name: "Otoscópio Xenon Halógena",
     image: "assets/OTOSCÓPIO XENON HALÓGENA.png",
     description:
@@ -1200,7 +1200,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 23,
+    id: 93,
     name: "Otoscópio Recarregável",
     image: "assets/OTOSCÓPIO RECARREGÁVEL.png",
     description:
@@ -1217,7 +1217,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 24,
+    id: 94,
     name: "Otoscópio Mini",
     image: "assets/OTOSCÓPIO MINI.png",
     description:
@@ -1233,7 +1233,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 25,
+    id: 95,
     name: "Otoscópio Mini 2",
     image: "assets/OTOSCÓPIO MINI 2.png",
     description:
@@ -1250,7 +1250,7 @@ const products = [
   },  
 
   {
-    id: 15,
+    id: 96,
     name: "Estetoscópio Spirit",
     image: "assets/ESTETOSCÓPIO SPIRIT.png",
     description:
@@ -1269,7 +1269,7 @@ const products = [
   }, 
 
     {
-    id: 16,
+    id: 97,
     name: "Estetoscópio Duplo",
     image: "assets/ESTETOSCÓPIO DUPLO.png",
     description:
@@ -1289,7 +1289,7 @@ const products = [
   //Espirômetro:
 
   {
-    id: 113,
+    id: 98,
     name: "Espirômetro SP80B",
     image: "assets/id_113-removebg-preview.png",
     description:
@@ -1302,7 +1302,7 @@ const products = [
 
   //Fetal:
 {
-    id: 1,
+    id: 99,
     name: "Detector Fetal",
     image: "assets/DETECTOR FETAL.png",
     description:
@@ -1318,7 +1318,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 2,
+    id: 100,
     name: "Doppler Fetal Portátil",
     image: "assets/DOPPLER FETAL PORTÁTIL.png",
     description:
@@ -1334,7 +1334,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 3,
+    id: 101,
     name: "Doppler Fetal de Mesa",
     image: "assets/DOPPLER FETAL DE MESA.png",
     description:
@@ -1350,7 +1350,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 4,
+    id: 102,
     name: "Doppler Fetal de Mesa Digital",
     image: "assets/DOPPLER FETAL DE MESA DIGITAL.png",
     description:
@@ -1366,7 +1366,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 5,
+    id: 103,
     name: "Detector Fetal",
     image: "assets/DETECTOR FETAL 2.png",
     description:
@@ -1382,7 +1382,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 6,
+    id: 104,
     name: "Detector Fetal Portátil e Mesa",
     image: "assets/DETECTOR FETAL PORTÁTIL E MESA.png",
     description:
@@ -1402,7 +1402,7 @@ const products = [
   //Fotopolimerizador:
 
   {
-    id: 114,
+    id: 105,
     name: "Fotopolimerizador ",
     image: "assets/id_114-removebg-preview.png",
     description:
@@ -1414,7 +1414,7 @@ const products = [
   },
 
   {
-    id: 115,
+    id: 106,
     name: "Fotopolimerizador ",
     image: "assets/id_115-removebg-preview.png",
     description:
@@ -1426,7 +1426,7 @@ const products = [
   },
 
   {
-    id: 117,
+    id: 107,
     name: "Fotopolimerizador Led5",
     image: "assets/id_117-removebg-preview.png",
     description:
@@ -1438,7 +1438,7 @@ const products = [
   },
 
   {
-    id: 118,
+    id: 108,
     name: "Fotopolimerizador Led6",
     image: "assets/id_118-removebg-preview.png",
     description:
@@ -1452,7 +1452,7 @@ const products = [
   //Incubadora:
 
   {
-    id: 119,
+    id: 109,
     name: "Incubadora Neonatal Estacionária",
     image: "assets/id_119-removebg-preview.png",
     description:
@@ -1466,7 +1466,7 @@ const products = [
   //Jato:
 
   {
-    id: 121,
+    id: 110,
     name: "Practical Jet",
     image: "assets/id_121-removebg-preview.png",
     description:
@@ -1480,7 +1480,7 @@ const products = [
   //Laser:
 
   {
-    id: 123,
+    id: 111,
     name: "K-Laser Red",
     image: "assets/id_123-removebg-preview.png",
     description:
@@ -1492,7 +1492,7 @@ const products = [
   },
 
   {
-    id: 124,
+    id: 112,
     name: "K-Laser Infra",
     image: "assets/id_124-removebg-preview.png",
     description:
@@ -1504,7 +1504,7 @@ const products = [
   },
 
   {
-    id: 125,
+    id: 113,
     name: "K-Laser Led Plus",
     image: "assets/id_125-removebg-preview.png",
     description:
@@ -1516,7 +1516,7 @@ const products = [
   },
 
   {
-    id: 126,
+    id: 114,
     name: "K-Led Polywave",
     image: "assets/id_126-removebg-preview.png",
     description:
@@ -1530,7 +1530,7 @@ const products = [
   //Lavadora:
 
   {
-    id: 127,
+    id: 115,
     name: "Lava-Tech",
     image: "assets/id_127-removebg-preview.png",
     description:
@@ -1544,7 +1544,7 @@ const products = [
   //Mesa:
 
   {
-    id: 128,
+    id: 116,
     name: "Mesa Ginecológica",
     image: "assets/id_128-removebg-preview.png",
     description:
@@ -1559,7 +1559,7 @@ const products = [
   },
 
   {
-    id: 129,
+    id: 117,
     name: "Mesa Auxiliar Esmaltada",
     image: "assets/id_129-removebg-preview.png",
     description:
@@ -1571,7 +1571,7 @@ const products = [
   },
 
   {
-    id: 130,
+    id: 118,
     name: "Mesa De Exame Ginecológico Luxo",
     image: "assets/id_130-removebg-preview.png",
     description:
@@ -1585,7 +1585,7 @@ const products = [
   //Microscópio:
 
   {
-    id: 131,
+    id: 119,
     name: "Linha completa de Microscópios ",
     image: "assets/id_131-removebg-preview.png",
     description: "Linha completa de Microscópios",
@@ -1596,7 +1596,7 @@ const products = [
   },
 
   {
-    id: 132,
+    id: 120,
     name: "Microscópios Sdorf Cientific",
     image: "assets/id_132-removebg-preview.png",
     description: "Microscópios Sdorf Cientific",
@@ -1607,7 +1607,7 @@ const products = [
   },
   //Misturador:
   {
-    id: 133,
+    id: 121,
     name: "Kondormix",
     image: "assets/id_133-removebg-preview.png",
     description:
@@ -1621,7 +1621,7 @@ const products = [
   //Modelo:
 
   {
-    id: 135,
+    id: 122,
     name: "Modelo Acupuntura Feminino",
     image: "assets/id_135-removebg-preview.png",
     description:
@@ -1633,7 +1633,7 @@ const products = [
   },
 
   {
-    id: 136,
+    id: 123,
     name: "Modelo Acupuntura Masculino",
     image: "assets/id_136-removebg-preview.png",
     description:
@@ -1645,7 +1645,7 @@ const products = [
   },
 
   {
-    id: 137,
+    id: 124,
     name: "Modelo Articulação Da Mão",
     image: "assets/id_137-removebg-preview.png",
     description:
@@ -1657,7 +1657,7 @@ const products = [
   },
 
   {
-    id: 138,
+    id: 125,
     name: "Modelo Articulação Do Cotovelo",
     image: "assets/id_138-removebg-preview.png",
     description:
@@ -1669,7 +1669,7 @@ const products = [
   },
 
   {
-    id: 139,
+    id: 126,
     name: "Modelo Articulação Do Joelho",
     image: "assets/id_139-removebg-preview.png",
     description:
@@ -1681,7 +1681,7 @@ const products = [
   },
 
   {
-    id: 140,
+    id: 127,
     name: "Modelo Articulação Do Ombro",
     image: "assets/id_140-removebg-preview.png",
     description:
@@ -1693,7 +1693,7 @@ const products = [
   },
 
   {
-    id: 141,
+    id: 128,
     name: "Modelo Articulação Do Pé",
     image: "assets/id_141-removebg-preview.png",
     description:
@@ -1705,7 +1705,7 @@ const products = [
   },
 
   {
-    id: 142,
+    id: 129,
     name: "Modelo Articulação Do Quadril",
     image: "assets/id_142-removebg-preview.png",
     description:
@@ -1717,7 +1717,7 @@ const products = [
   },
 
   {
-    id: 143,
+    id: 130,
     name: "Modelo Cabeça Com Cérebro",
     image: "assets/id_143-removebg-preview.png",
     description:
@@ -1729,7 +1729,7 @@ const products = [
   },
 
   {
-    id: 144,
+    id: 131,
     name: "Modelo Coração Médio 5 Partes",
     image: "assets/id_144-removebg-preview.png",
     description:
@@ -1741,7 +1741,7 @@ const products = [
   },
 
   {
-    id: 145,
+    id: 132,
     name: "Modelo Coluna Torácica",
     image: "assets/id_145-removebg-preview.png",
     description:
@@ -1753,7 +1753,7 @@ const products = [
   },
 
   {
-    id: 146,
+    id: 133,
     name: "Modelo Torso Bissexual Muscular",
     image: "assets/id_146-removebg-preview.png",
     description:
@@ -1765,7 +1765,7 @@ const products = [
   },
 
   {
-    id: 147,
+    id: 134,
     name: "Modelo Olho Em Órbita 10 Partes",
     image: "assets/id_147-removebg-preview.png",
     description:
@@ -1777,7 +1777,7 @@ const products = [
   },
 
   {
-    id: 148,
+    id: 135,
     name: "Modelo Cavidade Nasal",
     image: "assets/id_148-removebg-preview.png",
     description:
@@ -1789,7 +1789,7 @@ const products = [
   },
 
   {
-    id: 149,
+    id: 136,
     name: "Modelo Muscular Assex. 1,70CM",
     image: "assets/id_149-removebg-preview.png",
     description:
@@ -1801,7 +1801,7 @@ const products = [
   },
 
   {
-    id: 150,
+    id: 137,
     name: "Modelo Arcada Dentária c/ Língua",
     image: "assets/id_150-removebg-preview.png",
     description:
@@ -1815,7 +1815,7 @@ const products = [
   //Monitor:
 
   {
-    id: 151,
+    id: 138,
     name: "Monitor Multiparâmetro K10 ",
     image: "assets/id_151-removebg-preview.png",
     description:
@@ -1827,7 +1827,7 @@ const products = [
   },
 
   {
-    id: 152,
+    id: 139,
     name: "Monitor Multiparâmetro K12 ",
     image: "assets/id_152-removebg-preview.png",
     description:
@@ -1839,7 +1839,7 @@ const products = [
   },
 
   {
-    id: 153,
+    id: 140,
     name: "Monitor Multiparâmetro K15 ",
     image: "assets/id_153-removebg-preview.png",
     description:
@@ -1851,7 +1851,7 @@ const products = [
   },
 
   {
-    id: 154,
+    id: 141,
     name: "Monitor Multiparâmetro PC 300 ",
     image: "assets/id_154-removebg-preview.png",
     description:
@@ -1863,7 +1863,7 @@ const products = [
   },
 
   {
-    id: 155,
+    id: 142,
     name: "Monitor Multiparâmetro PC 900 ",
     image: "assets/id_155-removebg-preview.png",
     description:
@@ -1875,7 +1875,7 @@ const products = [
   },
 
   {
-    id: 156,
+    id: 143,
     name: "Monitor Multiparâmetro N1012 ",
     image: "assets/id_156-removebg-preview.png",
     description:
@@ -1887,7 +1887,7 @@ const products = [
   },
   //Oxímetro:
   {
-    id: 157,
+    id: 144,
     name: "Oxímetro de Pulso OxiMaster300",
     image: "assets/id_157-removebg-preview.png",
     description:
@@ -1899,7 +1899,7 @@ const products = [
   },
 
   {
-    id: 26,
+    id: 145,
     name: "Oxímetro de Pulso",
     image: "assets/OXÍMETRO DE PULSO.PNG",
     description:
@@ -1917,7 +1917,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 27,
+    id: 146,
     name: "Oxímetro de Pulso Portátil e Mesa",
     image: "assets/OXÍMETRO DE PULSO POTÁTIL E MESA.PNG",
     description:
@@ -1935,7 +1935,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 28,
+    id: 147,
     name: "Oxímetro de Dedo",
     image: "assets/OXÍMETRO DE DEDO.png",
     description:
@@ -1952,7 +1952,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 29,
+    id: 148,
     name: "Oxímetro de Mesa",
     image: "assets/OXÍMETRO DE MESA.PNG",
     description:
@@ -1970,7 +1970,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 30,
+    id: 149,
     name: "Oxímetro de Dedo",
     image: "assets/OXÍMETRO DE DEDO 2.png",
     description:
@@ -1987,7 +1987,7 @@ const products = [
     price: "Sob consulta",
   },
   {
-    id: 31,
+    id: 150,
     name: "Oxímetro de Dedo",
     image: "assets/OXÍMETRO DE DEDO 3.png",
     description:
@@ -2007,7 +2007,7 @@ const products = [
   //Peça:
 
   {
-    id: 158,
+    id: 151,
     name: "Pratical Scaler",
     image: "assets/id_158-removebg-preview.png",
     description:
@@ -2019,7 +2019,7 @@ const products = [
   },
 
   {
-    id: 159,
+    id: 152,
     name: "Peça Reta Odontológica",
     image: "assets/id_159-removebg-preview.png",
     description:
@@ -2031,7 +2031,7 @@ const products = [
   },
 
   {
-    id: 160,
+    id: 153,
     name: "Contra Ângulo Odontológico",
     image: "assets/id_160-removebg-preview.png",
     description:
@@ -2045,7 +2045,7 @@ const products = [
   //Ponta:
 
   {
-    id: 161,
+    id: 154,
     name: "Pontas Diamantadas",
     image: "assets/id_161-removebg-preview.png",
     description:
@@ -2059,7 +2059,7 @@ const products = [
   //Seladora:
 
   {
-    id: 162,
+    id: 155,
     name: "Sela-Tech",
     image: "assets/id_162-removebg-preview.png",
     description:
@@ -2073,7 +2073,7 @@ const products = [
   //Suporte:
 
   {
-    id: 163,
+    id: 156,
     name: "Suporte De Soro Inox",
     image: "assets/id_163-removebg-preview.png",
     description:
@@ -2086,7 +2086,7 @@ const products = [
 
   //Ultrassom:
   {
-    id: 164,
+    id: 157,
     name: "Scaler Jr Pump Led",
     image: "assets/id_164-removebg-preview.png",
     description:
