@@ -26,7 +26,7 @@ const products = [
       "Analisador químico de bancada compacto e potente; Automação completa com alta precisão nos resultados; Resultados rápidos em poucos segundos; Ideal para laboratórios de pequeno e médio porte; Desempenho robusto com excelente custo-benefício;Combinação perfeita entre tamanho e eficiência;",
     category: "Analisador",
     featured: false,
-    specs: ["Modelo: MaxBio Auto 300 Plus", "Marca: MedMax"],
+    specs: ["Modelo: 300 Plus", "Marca: MedMax"],
     price: "Sob consulta",
   },
 
@@ -50,7 +50,7 @@ const products = [
       "Analisador bioquímico semiautomático com sistema aberto;  Tela touch screen com interface moderna e intuitiva; Incubadora interna acoplada ao equipamento; Compatível com reagentes de diversas marcas; Armazena métodos analíticos e resultados de CQ; Fácil programação e uso prático no dia a dia; Ideal para laboratórios que buscam eficiência e versatilidade; ",
     category: "Analisador",
     featured: false,
-    specs: ["Modelo: MaxBio Touch", "Marca: MedMax"],
+    specs: ["Modelo: Touch", "Marca: MedMax"],
     price: "Sob consulta",
   },
 
@@ -354,7 +354,7 @@ const products = [
     name: "Balança Antropométrica",
     image: "assets/id_61-removebg-preview.png",
     description:
-      "Balança mecânica de plataforma com régua antropométrica; Capacidade de até 200 kg com divisão de 100 g; Régua de medição corporal de 90 a 200 cm; Ideal para adultos, inclusive pacientes obesos; Uso hospitalar, ambulatorial e clínico; Estrutura robusta em aço carbono com pintura eletrostática; ",
+      "Balança mecânica de plataforma com régua antropométrica; Capacidade de até 200 kg ",
     category: "Balança",
     featured: false,
     specs: ["Modelo:104-A", "Marca: Balmak"],
