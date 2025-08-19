@@ -7,7 +7,7 @@ const products = [
   {
     id: 1,
     name: "Yg-100",
-    image: "public/assets/id_32-removebg-preview.png",
+    image: "assets/id_32-removebg-preview.png",
     description:
       "Painel digital de fácil comando; Tampa protetora transparente para melhor visualização; Mistura homogênea com rotação de 4.200 rpm (+/-10%); Ajuste de tempo com memória; Design moderno e silencioso; Fácil limpeza; Indicado para cápsulas de amálgama pré-dosificadas; ",
     category: "Amalgamador",
