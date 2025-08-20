@@ -252,7 +252,7 @@ function App() {
                     >
                       equiparpr@hotmail.com
                     </a>
-                    <span className="hidden sm:inline text-blue-100">|</span>
+                    <span className="hidden sm:inline text-blue-100">||</span>
                     <a
                       href="mailto:Vendas@equiparhospitalar.com"
                       className="text-blue-100 hover:text-white transition-colors"
