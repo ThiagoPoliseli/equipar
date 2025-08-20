@@ -243,24 +243,24 @@ function App() {
                     | 43 3162-4565
                   </a>
                 </div>
-                <div className="flex items-center group">
-                  <Mail className="w-6 h-6 text-white mr-4 group-hover:scale-110 transition-transform" />
-                  <a
-                    href="mailto: equiparpr@hotmail.com"
-                    className="text-blue-100 hover:text-white transition-colors"
-                  >
-                    {" "}
-                    equiparpr@hotmail.com |
-                  </a>
-                  <a
-                    href="mailto: Vendas@equiparhospitalar.com"
-                    className="text-blue-100 hover:text-white transition-colors "
-                  >
-                    {" "}
-                    | Vendas@equiparhospitalar.com
-                  </a>
+                <div className="flex flex-col sm:flex-row sm:items-center group">
+                  <Mail className="w-6 h-6 text-white mr-4 mb-2 sm:mb-0 group-hover:scale-110 transition-transform" />
+                  <div className="flex flex-col sm:flex-row sm:space-x-2">
+                    <a
+                      href="mailto:equiparpr@hotmail.com"
+                      className="text-blue-100 hover:text-white transition-colors"
+                    >
+                      equiparpr@hotmail.com
+                    </a>
+                    <span className="hidden sm:inline text-blue-100">|</span>
+                    <a
+                      href="mailto:Vendas@equiparhospitalar.com"
+                      className="text-blue-100 hover:text-white transition-colors"
+                    >
+                      Vendas@equiparhospitalar.com
+                    </a>
+                  </div>
                 </div>
-              </div>
               <div className="mt-8 p-6 bg-white/5 rounded-xl border border-white/10">
                 <p className="text-sm text-blue-100">
                   <strong>Horário de Atendimento:</strong>
